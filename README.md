@@ -1,3 +1,3 @@
 # MyGym
-![Alt text](webappui.png)
+![Alt text](webappUI.png)
  
