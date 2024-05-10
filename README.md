@@ -1,5 +1,5 @@
 # MyGym
 ![Alt text](webappUI.png)
-![Alt text]()
+![Alt text](exercise-page.png)
 
  
